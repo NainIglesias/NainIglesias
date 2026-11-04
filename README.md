@@ -17,9 +17,7 @@ Backend developer based in Vigo, Spain. I mostly work with **PHP and Symfony**, 
  
 | Project | What it does | Tech |
 |---|---|---|
-| [What2PlayNext](https://github.com/NainIglesias/What2PlayNext) | Recommends games you haven't heard of, based on the ones you've played on Steam | Python, Steam API |
+| [WIP][What2PlayNext](https://github.com/NainIglesias/What2PlayNext) | Recommends games you haven't heard of, based on the ones you've played on Steam | Python, Steam API |
 | [ai (Spanish translation)](https://github.com/NainIglesias/ai) | Spanish translation of my AI course materials, made for my classmates | Jupyter |
  
-## Right now
- 
-Looking for my next role as a **backend developer** (Symfony / PHP) or on AI-related projects. If you think I'd be a good fit, feel free to reach out.
+
