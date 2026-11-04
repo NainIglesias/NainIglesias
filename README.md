@@ -5,7 +5,7 @@ Backend developer based in Vigo, Spain. I mostly work with **PHP and Symfony**, 
 - 🛠️ 2 years as a Symfony backend developer at a consultancy (REST APIs, Messenger, Doctrine, Docker)
 - 🎓 Higher Technician in Multiplatform App Development (DAM) · currently studying an AI & Big Data specialisation
 - 🔭 Currently exploring: coding agents, RAG and recommender systems
-- 📫 [LinkedIn]([https://www.linkedin.com/in/nain-iglesias-a8a4762ab])
+- 📫 [LinkedIn](https://www.linkedin.com/in/nain-iglesias-a8a4762ab)
 ## Stack
  
 **Backend:** PHP · Symfony · Doctrine ORM/ODM · Symfony Messenger · PHPUnit · Java/Spring Boot
