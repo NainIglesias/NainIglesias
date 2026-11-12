@@ -1,23 +1,34 @@
 # Hi, I'm Nain 👋
- 
-Backend developer based in Vigo, Spain. I mostly work with **PHP and Symfony**, and I'm currently learning **AI and Big Data** while building projects with coding agents.
- 
-- 🛠️ 2 years as a Symfony backend developer at a consultancy (REST APIs, Messenger, Doctrine, Docker)
-- 🎓 Higher Technician in Multiplatform App Development (DAM) · currently studying an AI & Big Data specialisation
-- 🔭 Currently exploring: coding agents, RAG and recommender systems
-- 📫 [LinkedIn](https://www.linkedin.com/in/nain-iglesias-a8a4762ab)
+
+**Backend Developer · Symfony · AI** · 📍 Vigo, Galicia
+
+Two years building REST APIs with PHP and Symfony at a consultancy. Now I'm specialising in **AI and Big Data**, and I work with coding agents every day.
+
+🌐 **Portfolio:** [nainiglesias.github.io](https://nainiglesias.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/nain-iglesias-a8a4762ab) · 📫 [iglesiasnain03@gmail.com](mailto:iglesiasnain03@gmail.com)
+
+## Journey
+
+- **2022 – 2024** · Higher Technician in Multiplatform App Development (DAM)
+- **2024 – 2026** · Symfony backend developer at a consultancy (REST APIs, Messenger, Doctrine, Docker)
+- **Now** · AI & Big Data specialisation
+
 ## Stack
- 
-**Backend:** PHP · Symfony · Doctrine ORM/ODM · Symfony Messenger · PHPUnit · Java/Spring Boot
-**Data & AI:** Python · Jupyter · pandas · scikit-learn
-**Databases:** PostgreSQL · MongoDB
-**Infra:** Docker · Linux · VPS · GitHub Actions
- 
-## Featured projects
- 
+
+- **Backend:** PHP · Symfony · Doctrine · Symfony Messenger · PHPUnit · Java
+- **Data & AI:** Python · Jupyter · pandas · scikit-learn · Claude Code
+- **Databases:** PostgreSQL · SQLite
+- **Infra:** Docker · Linux · GitHub Actions · tmux · Neovim
+
+## Projects
+
 | Project | What it does | Tech |
 |---|---|---|
-| [WIP][What2PlayNext](https://github.com/NainIglesias/What2PlayNext) | Recommends games you haven't heard of, based on the ones you've played on Steam | Python, Steam API |
-| [ai (Spanish translation)](https://github.com/NainIglesias/ai) | Spanish translation of my AI course materials, made for my classmates | Jupyter |
-| [(WIP) Dev Enviroment] | Cenrtalized enviroment managed by agents | Bash, Python, Claude |
+| Music school 🔒 | Manages a music school: teachers, schedules, shared resources and absences with their make-up lessons | Symfony, Doctrine, PostgreSQL, Messenger |
+| Ponte 🔒 | Dashboard on top of the Xunta's distance-learning Moodle: this week's tasks, grades, forums and submissions | FastAPI, SQLAlchemy, Moodle API, Docker |
+| Claude Code Telegram Manager 🔒 | Telegram bot to launch and follow Claude Code tasks on my projects, with git and pull requests | Python, aiogram, Claude Code |
+| [AI course translation](https://github.com/NainIglesias/ai) | Spanish fork of my teacher's AI course notes, kept up to date on its own with GitHub Actions and Claude Code | GitHub Actions, Claude Code, Jupyter |
+| [What2PlayNext](https://github.com/NainIglesias/What2PlayNext) | Recommends Steam games you don't know yet, based on your library and hours played | Python, pandas, scikit-learn, Steam API |
+| devenv 🔒 | My whole dev environment in one command, Neovim included, with a terminal bar showing which Claude agent is done or waiting for me | Bash, Python, mise, tmux, Claude Code |
+| Neovim environment 🔒 | My custom editor: Neovim with my own plugins for git, Jupyter notebooks and Claude Code agents that ping me when they finish | Neovim, Lua, Claude Code, Jupyter |
 
+🔒 Private repository — happy to tell you about it, just ask.
